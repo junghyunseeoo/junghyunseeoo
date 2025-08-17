@@ -9,7 +9,7 @@
 - C, Java, JavaScript, Kotlin
 
 ## Highlights
-- 🎬 **MovieLog** 
+- 🎬 [**MovieLog**](https://github.com/junghyunseeoo/MovieLog)
 - 📚 **C Programming** 
 
 ## Contact & Links
